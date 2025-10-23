@@ -1,5 +1,7 @@
 # 💼 Akash – WordPress Developer Portfolio
 
+![Akash M](https://raw.githubusercontent.com/Akashmvd34/portfolio/main/Akash.jpg)
+
 ## 👋 About Me
 Hi, I’m **Akash**, a passionate **WordPress Developer** with 3 years of experience creating, customizing, and optimizing websites.  
 Specialized in **Elementor**, **ACF**, **WooCommerce**, and website performance optimization.
@@ -43,7 +45,8 @@ Designed a fast, SEO-friendly business information website. Integrated custom po
 
 ## 📫 Contact
 - **Email:** akashmvd34@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/akash-m-485126235](https://www.linkedin.com/in/akash-m-485126235)
+- **LinkedIn:** [https://www.linkedin.com/in/akash-m-485126235](https://www.linkedin.com/in/akash-m-485126235)  
+- **GitHub:** [https://github.com/Akashmvd34/portfolio](https://github.com/Akashmvd34/portfolio)
 
 ---
 

@@ -1,6 +1,6 @@
 # 💼 Akash – WordPress Developer Portfolio
 
-![Akash M](https://raw.githubusercontent.com/Akashmvd34/portfolio/main/Akash.jpg)
+<img src="https://raw.githubusercontent.com/Akashmvd34/portfolio/main/Akash.jpg" alt="Akash M" width="150"/>
 
 ## 👋 About Me
 Hi, I’m **Akash**, a passionate **WordPress Developer** with 3 years of experience creating, customizing, and optimizing websites.  

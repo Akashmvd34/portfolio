@@ -26,7 +26,7 @@ Specialized in **Elementor**, **ACF**, **WooCommerce**, and website performance 
 Developed the official website using WordPress and Elementor. Integrated ACF for dynamic content and optimized performance with WP Rocket.
 
 ### 🧱 BKWIRE – Company Demo Website
-[![Website](https://img.shields.io/badge/Visit-Website-brightgreen)](https://devbkwire.wpenginepowered.com)  
+[![Website](https://img.shields.io/badge/Visit-Website-brightgreen)](https://bkwire.com/)  
 Built a demo site on WordPress using custom Elementor layouts. Focused on responsive design and internal testing modules.
 
 ### ❤️ Samarth Care – Community Wellness Platform
